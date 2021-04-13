@@ -1,0 +1,24 @@
+.thumbnail {
+	border: none;
+}
+.shipping{
+	height: 20px;
+	width: 80px;
+	background-color: black;
+	color: #fff;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	font-size: 1.1rem;
+	text-align: center;
+}
+
+.cart{
+	height: 40px;
+	width: 200px;
+	background-color: black;
+	color: #fff;
+	font-size: 1.1rem;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
